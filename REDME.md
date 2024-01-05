@@ -34,6 +34,18 @@ This Discord bot is a simple yet effective tool designed to assist students and 
 3. **Install dependencies:**
    ```bash
      npm install
+4. **Configure the bot:**
+
+- Create a .env file in the project root.
+
+- Add your Discord bot token to the .env file:
+    ```env
+   DISCORD_BOT_TOKEN=your-bot-token
+
+5. **Run the bot:**
+   ```bash
+   Copy code
+   npm start
 
 ### Usage
 - Invite the bot to your Discord server using the invite link generated during the bot creation on the Discord Developer Portal.
