@@ -28,24 +28,24 @@ This Discord bot is a simple yet effective tool designed to assist students and 
    git clone https://github.com/your-username/programming-qa-bot.git
    
 2. **Navigate to the project directory:**
-
-  cd programming-qa-bot
-
+   ```bash
+     cd programming-qa-bot  
+ 
 3. **Install dependencies:**
+   ```bash
+     npm install
 
-  npm install
-  
-Usage
-Invite the bot to your Discord server using the invite link generated during the bot creation on the Discord Developer Portal.
+### Usage
+- Invite the bot to your Discord server using the invite link generated during the bot creation on the Discord Developer Portal.
 
-In any text channel, use commands like /git to get a list of commonly used Git prompts.
+- In any text channel, use commands like /git to get a list of commonly used Git prompts.
 
-Explore different commands related to various programming topics.
+- Explore different commands related to various programming topics.
 
-Contributing
+- **Contributing**
 Contributions are welcome! If you have suggestions, improvements, or additional features, feel free to open an issue or submit a pull request.
 
-License
+**License**
 This project is licensed under the MIT License.
 
 Happy coding! 🚀
